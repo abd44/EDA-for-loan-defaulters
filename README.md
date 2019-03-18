@@ -1,4 +1,7 @@
 # EDA-for-loan-defaulters
+
+Objective: Use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+
 Extracting Driver variables using EDA to spot the loan defaulters
 
 Performed EDA and extracted driver variables behind loan default so that company can use this knowledge for portfolio assessment.
